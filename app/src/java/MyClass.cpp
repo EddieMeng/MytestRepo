@@ -6,5 +6,5 @@
 #include <std.io>
 
 int main() {
-
+   checkout checkout
 }
