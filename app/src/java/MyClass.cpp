@@ -7,4 +7,6 @@
 
 int main() {
    checkout checkout
+   int integer = 3;
+
 }
